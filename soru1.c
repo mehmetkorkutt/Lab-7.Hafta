@@ -1,7 +1,7 @@
-//23.03.2022 LAB 6. Hafta Soru 1 
+//23.03.2022 LAB 7. Hafta Soru 1 
 
-/*Klavyeden 0(sıfır) girilinceye kadar tam sayıları hafızayı en verimli şekilde 
-kullanarak hafızada tutacak programı C dili ile yazınız.  */
+/*Klavyeden 0(sÄ±fÄ±r) girilinceye kadar tam sayÄ±larÄ± hafÄ±zayÄ± en verimli ÅŸekilde 
+kullanarak hafÄ±zada tutacak programÄ± C dili ile yazÄ±nÄ±z.  */
 
 #include <stdio.h>
 
